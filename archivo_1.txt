@@ -1,0 +1,7 @@
+nombre:stavri
+apellido:georgiou
+edad:28
+aficiones
+    pintar
+    bailar
+    salir
