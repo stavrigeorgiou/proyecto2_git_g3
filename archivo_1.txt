@@ -5,3 +5,5 @@ aficiones
     pintar
     bailar
     salir
+    board games
+    
