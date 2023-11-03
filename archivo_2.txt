@@ -5,3 +5,4 @@ cv
 soft skills
     comunicaacion
     team work
+carnet
